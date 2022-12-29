@@ -1,0 +1,8 @@
+127.0.0.1is up 
+google.comis up 
+x.y.z.ais up 
+127.0.0.1is up 
+google.comis up 
+"10.0.0.1"is up 
+127.0.0.1is up 
+google.comis up 
